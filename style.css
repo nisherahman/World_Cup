@@ -335,6 +335,7 @@ footer .social-icon a i:hover{
     main{
         width: 90%;
         margin: 3rem auto;
+        display: block;
     }
     .sports-top {
         margin-bottom: 92px;
@@ -478,6 +479,7 @@ footer .social-icon a i:hover{
     main {
         width: 90%;
         margin: 3rem auto;
+        display: block;
     }
     /* sports part starts */
     .sports-top{
