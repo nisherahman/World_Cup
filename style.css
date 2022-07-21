@@ -574,6 +574,9 @@ footer .social-icon a i:hover{
     /* ===========  upcoming match part ends ============ */
 
     /* footer part starts */
+    footer {
+        width:fixed;
+    }
     footer .footer-menu{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
