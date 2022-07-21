@@ -477,7 +477,7 @@ footer .social-icon a i:hover{
 /* mobile device responsive starts*/
 @media only screen and (max-width: 688px) {
     main {
-        width: 90%;
+        width: 558px;
         margin: 3rem auto;
         display: block;
     }
