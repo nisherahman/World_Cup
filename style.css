@@ -105,9 +105,6 @@ main{
 	-moz-border-radius: 10px;
 	-ms-border-radius: 10px;
 	-o-border-radius: 10px;
-    position: sticky;
-    top:0;
-    left:0;
 }
 .player-card .player-menu a {
 	padding: 13px 60px;
@@ -442,6 +439,7 @@ footer .social-icon a i:hover{
     /* footer part starts */
     footer {
         margin-top: -16px;
+        width:fixed;
     }
     footer .footer-menu{
         flex-direction: column;
@@ -477,7 +475,7 @@ footer .social-icon a i:hover{
 /* mobile device responsive starts*/
 @media only screen and (max-width: 688px) {
     main {
-        width: 558px;
+        width: 616px;
         margin: 3rem auto;
         display: block;
     }
